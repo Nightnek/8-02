@@ -19,7 +19,9 @@
 ---
 
 ### Задание 3
+![image](https://github.com/Nightnek/8-02/assets/127677631/ce50f85b-815e-456d-bca0-9ef5139c635b)
 
+![image](https://github.com/Nightnek/8-02/assets/127677631/51927c7b-eaad-4efc-a206-86da7f7cfc07)
 
 
 
