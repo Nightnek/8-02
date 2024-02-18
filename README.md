@@ -12,6 +12,8 @@
 
 ### Задание 2
 
+![image](https://github.com/Nightnek/8-02/assets/127677631/a1fefffc-97d4-4a36-8b67-843682a26062)
+![image](https://github.com/Nightnek/8-02/assets/127677631/96d2b0d0-2a07-4baf-9aa1-28f01c7b97be)
 
 
 ---
@@ -23,5 +25,5 @@
 
 
 
-
+---
 ### Задание 4
