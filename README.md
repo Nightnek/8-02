@@ -29,3 +29,5 @@
 
 ---
 ### Задание 4
+![image](https://github.com/Nightnek/8-02/assets/127677631/960d34c3-9aeb-4bb5-a791-e0b74b03699b)
+![image](https://github.com/Nightnek/8-02/assets/127677631/eeb98073-55db-445c-847d-927b0f9cea9a)
